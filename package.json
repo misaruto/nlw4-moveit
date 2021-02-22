@@ -39,5 +39,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+    "repository": {
+    "url": "https://github.com/misaruto/nlw4-moveit",
+    "type": "git"
+  },
+  "author": "Misael Guilhardes de Freitas misaelg.freitas2000@gmail.com",
+  "license": "MIT"
 }
